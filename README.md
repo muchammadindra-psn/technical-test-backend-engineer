@@ -5,6 +5,7 @@ In this test, the candidate should craft a **Customer** **RESTFul** API Service 
 Upload to private repository in github.com and invite these persons as a collaborators:
 
 - UserID github : **ariefpsn**
+- UserID github : **muchammadindra-psn**
 
 ### RESTFul Specifications
 
